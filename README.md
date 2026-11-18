@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ilaha! 👋
 
-<!--
-**ilahaidayatova-codes/ilahaidayatova-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer | Python Learner
 
-Here are some ideas to get you started:
+I'm currently learning Python and building my programming skills with the goal of becoming an AI Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Learning Journey
+- Python Programming
+- Data Structures and Algorithms
+- Mathematics for AI
+- Machine Learning
+- Deep Learning
+- Generative AI
+
+### 🛠️ Technologies I'm Learning
+- Python
+- Git & GitHub
+
+### 📂 My Projects
+- [Python Learning Journey](https://github.com/ilahaidayatova-codes/python-learning-journey)
+
+### 🌱 Current Focus
+Learning Python fundamentals and developing practical programming projects.
+
+### 🚀 My Goal
+To become an AI Engineer by building real-world AI applications and continuously improving my technical skills.
+
